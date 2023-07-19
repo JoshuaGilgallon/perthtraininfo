@@ -10,5 +10,5 @@ Actual code will not be released to the public due to copyright and privacy reas
 
 ## Current status
 
-**Project initiation**
+**Project initiation**;
 Very early stages, creating files, finalising hosting, and buying domains.
